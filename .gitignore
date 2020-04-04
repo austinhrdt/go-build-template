@@ -1,0 +1,8 @@
+# vscode
+.vscode
+
+# app specific
+/bin
+/.go
+/.container-*
+/.dockerfile-*
